@@ -1,1 +1,2 @@
-# N-Queens-Problem-with-Local-beam-search
+# N-Queens Problem with Local beam search
+
